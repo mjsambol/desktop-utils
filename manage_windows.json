@@ -1,0 +1,19 @@
+{
+    "WINDOW_TITLE_SUBSTRINGS":
+    {
+        "whatsapp": ["WhatsApp"],
+        "personal-chrome": ["moshe.sambol@gmail.com", "Google Calendar"],
+        "work-chrome": ["athena-tech", "moshes@lightrun.com"],
+        "personal-notes": ["Notes-personal - Obsidian"],
+        "work-notes": ["lightrun-notes - Obsidian"]
+    },
+
+    "WINDOW_RAISE_BY_KEY":
+    {
+        "1": "work-chrome",
+        "2": "personal-chrome",
+        "3": "whatsapp",
+        "4": "work-notes",
+        "5": "personal-notes"
+    }
+}
